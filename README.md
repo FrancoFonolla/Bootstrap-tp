@@ -6,5 +6,5 @@ npm install -g json-server
 
 Y ejecutar la base de datos
 ```bash
-json-server --watch bd.json
+json-server --watch db.json
 ```
